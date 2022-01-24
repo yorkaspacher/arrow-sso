@@ -1,0 +1,30 @@
+{
+
+  "name": "Disciple Tools - OM SSO",
+  "version": "1.0",
+  "last_updated": "2021-09",
+  "author": "Disciple Tools",
+  "author_homepage": "https://disciple.tools",
+  "git_owner": "DiscipleTools",
+  "git_repo": "disciple-tools-om-sso",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-om-sso/releases/latest/download/disciple-tools-om-sso.zip",
+  "homepage": "https://github.com/DiscipleTools/disciple-tools-om-sso",
+  "issues_url": "https://github.com/DiscipleTools/disciple-tools-om-sso/issues",
+  "projects_url": "https://github.com/DiscipleTools/disciple-tools-om-sso/projects/1",
+  "discussions_url": "https://github.com/DiscipleTools/disciple-tools-om-sso/discussions",
+  "wiki_url": "https://github.com/DiscipleTools/disciple-tools-om-sso/wiki",
+  "license_url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-om-sso/master/LICENSE",
+  "readme_url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-om-sso/master/README.md",
+  "requires": "4.7",
+  "tested": "5.7",
+  "upgrade_notice": "Upgrade to get the latest features.",
+  "banners": {
+    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-om-sso/master/documentation/banner.png",
+    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-om-sso/master/documentation/banner.png"
+  },
+  "sections": {
+    "description": "Disciple Tools - OM SSO is intended to offer Single-Sign-On (SSO) Authentication through Microsoft Office 365.",
+    "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
+    "changelog": ""
+  }
+}
